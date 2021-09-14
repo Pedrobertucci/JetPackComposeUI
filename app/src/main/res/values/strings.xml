@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Compose UI</string>
+
+    <string name="title">Happy Meal</string>
+    <string name="description">800 calories</string>
+    <string name="price">€5.00</string>
 </resources>
